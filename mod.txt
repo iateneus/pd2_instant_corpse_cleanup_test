@@ -8,7 +8,7 @@
   {
     "identifier": "pd2_instant_corpse_cleanup_test",
     "host": {
-      "meta": "https://raw.githubusercontent.com/iateneus/pd2_instant_corpse_cleanup_test/main/meta.json"
+      "meta": "https://raw.githubusercontent.com/iateneus/pd2_instant_corpse_cleanup/main/meta.json"
     }
   }
 ],
