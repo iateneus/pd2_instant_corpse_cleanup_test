@@ -1,0 +1,14 @@
+{
+  "icc_title": "Instant Corpse Cleanup",
+  "icc_desc": "Choose each cleanup feature independently. Changes affect future cleanup and impacts; removed objects cannot be restored.",
+  "icc_remove_corpses_title": "Remove corpses",
+  "icc_remove_corpses_desc": "Removes dead enemies and civilians immediately in loud. Preserves bodies in stealth for body bags. OFF: normal game corpse disposal.",
+  "icc_remove_shields_title": "Remove shields",
+  "icc_remove_shields_desc": "Removes dropped shields in loud using native cleanup checks every 0.1 seconds. OFF: normal game shield disposal. Does not remove shields held by living enemies.",
+  "icc_remove_props_title": "Remove props dropped by dead units",
+  "icc_remove_props_desc": "Prevents loose helmets and bulldozer armor debris: face plates, chest, back, abdomen and neck. OFF: normal cosmetic debris.",
+  "icc_remove_decals_title": "Remove bullet holes and explosion marks",
+  "icc_remove_decals_desc": "Prevents new bullet holes and explosion scorch marks, including grenade-launcher impacts. Keeps impact sounds and particles. Does not affect blood splatters or erase existing marks. OFF: normal bullet and explosion decals.",
+  "icc_remove_blood_title": "Remove blood splatters",
+  "icc_remove_blood_desc": "Prevents surface blood stains, flesh-impact blood particles and nearby blood splashes on the screen, including synchronized multiplayer impacts. Does not erase existing stains. OFF: normal blood visuals."
+}

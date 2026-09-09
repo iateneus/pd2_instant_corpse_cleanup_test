@@ -1,0 +1,8 @@
+--Version 1.1: cleaner code, small adjustments to delay in corpse disposal, and added support for civilian bodies in loud;
+--Version 1.2: added self updating feature;
+--Version 1.2.1: added bugfix for Hell's Island mission not triggering 'Clear Area' objective, as well as more organized files;
+--Version 1.3: added feature to remove debris from dozers' armorplates;
+--Version 1.3.1: removed blood and bullet decals;
+--Version 1.4: Unified four independent, persistent Mod Options toggles. Restore native behavior when disabled. Separate explosion and gameplay hooks;
+--Version 1.4.1: added bugfix for Panic Room mission where game would cause a crash when all corpses would be removed;
+--Version 1.4.2: Separate blood splatters from bullet/explosion decals with an independent saved toggle;

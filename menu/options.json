@@ -1,0 +1,53 @@
+{
+  "menu_id": "icc_options",
+  "parent_menu_id": "blt_options",
+  "title": "icc_title",
+  "description": "icc_desc",
+  "items": [
+    {
+      "type": "toggle",
+      "id": "icc_remove_corpses",
+      "title": "icc_remove_corpses_title",
+      "description": "icc_remove_corpses_desc",
+      "callback": "icc_remove_corpses",
+      "value": "remove_corpses",
+      "default_value": true
+    },
+    {
+      "type": "toggle",
+      "id": "icc_remove_shields",
+      "title": "icc_remove_shields_title",
+      "description": "icc_remove_shields_desc",
+      "callback": "icc_remove_shields",
+      "value": "remove_shields",
+      "default_value": true
+    },
+    {
+      "type": "toggle",
+      "id": "icc_remove_props",
+      "title": "icc_remove_props_title",
+      "description": "icc_remove_props_desc",
+      "callback": "icc_remove_props",
+      "value": "remove_props",
+      "default_value": true
+    },
+    {
+      "type": "toggle",
+      "id": "icc_remove_decals",
+      "title": "icc_remove_decals_title",
+      "description": "icc_remove_decals_desc",
+      "callback": "icc_remove_decals",
+      "value": "remove_decals",
+      "default_value": true
+    },
+    {
+      "type": "toggle",
+      "id": "icc_remove_blood",
+      "title": "icc_remove_blood_title",
+      "description": "icc_remove_blood_desc",
+      "callback": "icc_remove_blood",
+      "value": "remove_blood",
+      "default_value": true
+    }
+  ]
+}
